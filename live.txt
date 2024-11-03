@@ -1143,9 +1143,7 @@ TVN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 華視,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
 中天亞洲台,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 三立綜合台,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
-三立財經新聞,http://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8
 千禧經典台,http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
-翡翠台(泰国),http://aktv.top/AKTV/live/aktv/null-16/AKTV.m3u8
 翡翠综合台(北美),http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
 翡翠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
 明珠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
@@ -1154,14 +1152,11 @@ TVN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 龍華日韓台,http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
 龍華電影台,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
 鳳凰中文,http://122.224.232.218:8888/rtp/233.50.200.191:5140
-香港佛陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
 香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
 香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0
 香港衛視,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
-香港國際財經,http://61.10.2.140/live_freedirect/opentvhd002_h.live/playlist.m3u8
-香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 半島新聞,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 半島新聞,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 半島新聞,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
@@ -1176,12 +1171,6 @@ TVN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8?
 大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-星光視界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
-有線新聞,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
-有線新聞,http://61.10.2.141:80/live_freedirect/freehd209_h.live/chunklist.m3u8
-有線新聞,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/chunklist_w1949275579.m3u8
-有線新聞,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
-有線財經資訊,http://61.10.2.145/live_freedirect/freehd208_h.live/chunklist.m3u8
 環球電視,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
