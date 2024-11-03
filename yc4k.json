@@ -585,7 +585,7 @@
         {
             "name": "直播",
             "type": 0,
-            "url": "./yczb.txt",
+            "url": "./live.txt",
             "playerType": 1,
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
         }
