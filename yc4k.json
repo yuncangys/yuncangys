@@ -43,15 +43,6 @@
             }
         },
         {
-            "key": "厂长资源",
-            "name": "2K厂长-💯｜2K",
-            "type": 3,
-            "api": "csp_Czzy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "文才弹幕",
             "name": "2K文才-💯｜弹幕",
             "type": 3,
@@ -594,7 +585,7 @@
         {
             "name": "直播",
             "type": 0,
-            "url": "https://ghp.ci/https://raw.githubusercontent.com/yuncangys/yuncangys/refs/heads/main/yczb.txt",
+            "url": "./yczb.txt",
             "playerType": 1,
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
         }
