@@ -1,5 +1,5 @@
 {
-    "spider": "https://gh-proxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;378937cbd643936199fd9e9b87c61f33",
+    "spider": "./spider.jar;md5;378937cbd643936199fd9e9b87c61f33",
     "wallpaper": "https://api.likepoems.com/img/bing",
     "sites": [
         {
