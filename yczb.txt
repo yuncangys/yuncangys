@@ -1002,11 +1002,8 @@ BRTV新闻,http://61.163.58.195:1718/beijin.php?id=bjxw
 TVBS歡樂台,http://37.27.111.214:8080/live/24/hls.m3u8
 香港🇭🇰卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港🇭🇰卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-CGTN频道,https://0472.org/hls/cgtn.m3u8
 澳门莲花台,http://php.jdshipin.com:8880/amlh.php
 澳视澳门,http://61.244.22.5/ch1/ch1.live/playelist.m3u8
-无线翡翠,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 澳视葡文台,http://61.244.22.5/ch2/ch2.live/index.m3u8
 澳门莲花,http://php.jdshipin.com:8880/amlh.php
 香港33台,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
@@ -1022,8 +1019,6 @@ MYTV Super 18台,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
 PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 ROCK Action,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
 TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
-TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
-TVBS新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 TVN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 娛樂新聞台(HK),http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
@@ -1035,18 +1030,14 @@ TVN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 靖天電影台,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
 龍華經典台,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
 中天新聞台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
-寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 中視,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
 華視,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
 中天亞洲台,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 三立綜合台,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
-三立財經新聞,http://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8
 千禧經典台,http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
-翡翠台(泰国),http://aktv.top/AKTV/live/aktv/null-16/AKTV.m3u8
 翡翠综合台(北美),http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
 翡翠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
 明珠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
-无线新闻台(北美),http://aktv.top/AKTV/live/aktv/null-20/AKTV.m3u8
 黃金翡翠台,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
 龍華日韓台,http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
 龍華電影台,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
@@ -1057,8 +1048,6 @@ TVN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
 香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0
 香港衛視,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
-香港國際財經,http://61.10.2.140/live_freedirect/opentvhd002_h.live/playlist.m3u8
-香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 半島新聞,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 半島新聞,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 半島新聞,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
@@ -1073,15 +1062,7 @@ TVN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8?
 大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-星光視界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
-有線新聞,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
-有線新聞,http://61.10.2.141:80/live_freedirect/freehd209_h.live/chunklist.m3u8
-有線新聞,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/chunklist_w1949275579.m3u8
-有線新聞,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
-有線財經資訊,http://61.10.2.145/live_freedirect/freehd208_h.live/chunklist.m3u8
 環球電視,http://zb.xzxwhcb.com:9999/hls/world.m3u8
-番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
-番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 Fox新聞,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 GOODTV卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 GOODTV好消息,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
@@ -1092,7 +1073,6 @@ GOODTV好消息,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/l
 Loupe4K,https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 Loupe4K,https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 STARS.TV,https://cloudfront.tubi.video/21df8036-fa23-49ff-9877-8af983546d2b/elw3phlf/stream.m3u8
-starsTV,https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 4k👉修复全网,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 4k👉动物全网,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 4K南国都市台,http://php.jdshipin.com:8880/gztv.php?id=shenghuo
@@ -1103,14 +1083,9 @@ starsTV,https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 亚洲新闻台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 捷克频道,https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
-中视闽南台,https://histar.zapi.us.kg/?id=ctv
-中视闽南台,rtmp://f13h.mine.nu/sat/tv091
-华视闽南台,rtmp://f13h.mine.nu/sat/tv111
 MoMo综合,rtmp://f13h.mine.nu/sat/tv761
-纬来日本台,rtmp://f13h.mine.nu/sat/tv771
 纬来育乐台,rtmp://f13h.mine.nu/sat/tv701
 纬来体育台,rtmp://f13h.mine.nu/sat/tv721
-ELEVEN1台,rtmp://f13h.mine.nu/sat/tv731
 亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 耀才财经频道,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
@@ -1124,11 +1099,9 @@ ELEVEN1台,rtmp://f13h.mine.nu/sat/tv731
 三立台湾台,http://211.72.65.236:8521/.m3u8
 民视台湾台,http://37.27.111.214:8080/live/5/hls.m3u8
 台湾Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-寰宇台湾台,http://37.27.111.214:8080/live/63/hls.m3u8
 海峡两岸,http://hls.cntv.myhwcdn.cn/asp/hls/1200/0303000a/3/default/93dafada4e35457788319f02f5063529/1200.m3u8
 BBC First,http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
 BIPTV,https://biptv.tv/live/biptvstream_orig/index.m3u8
-面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 FOX新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 TRT世界,https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 功夫影院,https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
