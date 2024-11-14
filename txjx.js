@@ -56,9 +56,9 @@ lazy: $js.toString(() => {
             }
         };
 
-        parseLink("https://jx.xmflv.com/?url=" + input);
+        parseLink("https://jx.xiaofengtv.com/jx.php?url=" + input);
         if (!longestLink) {
-            parseLink("https://jx.xmflv.com/?url=" + input);
+            parseLink("https://jx.xiaofengtv.com/jx.php?url=" + input);
         }
 
         input = longestLink ? { url: longestLink, parse: 0, header: rule.headers } : input;
