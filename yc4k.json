@@ -468,6 +468,39 @@
                     "User-Agent": "Dalvik/2.1.0"
                 }
             }
+        },
+        {
+            "name": "4KHDR",
+            "type": "1",
+            "url": "http://qn6z7b.yun.42jx.com/jx/jx.php?url=",
+            "ext": {
+                "flag": [
+                    "youku",
+                    "qq",
+                    "qiyi",
+                    "bilibili",
+                    "mgtv",
+                    "pptv",
+                    "xigua",
+                    "NBY",
+                    "ETH-",
+                    "BBA",
+                    "TX",
+                    "MXTV",
+                    "mytv",
+                    "nmys",
+                    "yhdm",
+                    "BNNB",
+                    "letu",
+                    "DJWB",
+                    "DJWX",
+                    "DJWT",
+                    "duanju"
+                ],
+                "header": {
+                    "User-Agent": "Dalvik/2.1.0"
+                }
+            }
         }
     ],
     "rules": [
