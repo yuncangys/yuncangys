@@ -604,7 +604,7 @@
     ],
     "lives": [
         {
-            "name": "直播",
+            "name": "当前",
             "type": 0,
             "url": "./live.txt",
             "playerType": 1,
