@@ -25,7 +25,7 @@
       "name": "4K腾云-💯┃VIP",
       "type": 3,
       "api": "http://47.99.102.252/drpy_libs/drpy2.min.js",
-      "ext": "http://47.99.102.252/js/tx4k.js"
+      "ext": "./tx4k.js"
     },
         {"key": "guoguo","name": "4K茫茫-💯┃VIP","type": 3,"api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"changeable": 0,"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/芒果视频.js"},
     {"key": "瓜子｜影视","name": "4K瓜子-💯┃vip","type": 3,"api": "csp_Gz360","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -185,7 +185,6 @@
     {"key": "低端影视","name": "2K低端-💯┃2K","type": 3,"api": "csp_Ddys","searchable": 1,"quickSearch": 1,"filterable":1,"jar": "./spider.jar;md5;34c7c3e4a322bcb666145dd87fa68e9f"},
     {"key":"热播","name":"2K热播-💯┃2k","type":3,"api":"csp_TTian","playerType":1,"ext":"http://v.rbotv.cn","jar": "https://jihulab.com/run1006/hdr/-/raw/main/lib/cesi.jar"},
 {"key": "csp_SeedHub","name": "直连-💯┃磁力","type": 3,"api": "csp_SeedHub","searchable": 1,"quickSearch": 1,"playerType": 1,"filterable": 1},
-    {"key": "wxb","name": "🥊搏击┃拳击","type": 3,"playerType":" 1","api": "https://jihulab.com/run1006/hdr/-/raw/main/quanji1.js","ext":"https://jihulab.com/run1006/hdr/-/raw/main/quanji2.js"},
     {
       "key": "csp_Kuaikan",
       "name": "2K快看┃影视",
@@ -302,15 +301,6 @@
             "filterable": 1,
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/河马短剧.json"
         },
-        {
-            "key": "韩小圈",
-            "name": "韩小圈｜APP",
-            "type": 3,
-            "api": "csp_HanXiaoQuan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
     {"key": "NT动漫","name": "NT动漫-💯┃秒播","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js","ext": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/NT动漫.js"},
 {
       "key": "csp_Dm84",
@@ -380,16 +370,6 @@
       "filterable": 0,
       "ext": "https://d.kstore.space/download/6509/lib/m1905.py"
     },
-    {
-      "key": "py_山海经",
-      "name": "PYY资源",
-      "type": 3,
-      "api": "py_gaoqing",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://d.kstore.space/download/6509/lib/%E8%A5%BF%E7%8E%8B%E6%AF%8D.py"
-      },
         {
             "key": "csp_FirstAid",
             "name": "🍧急救┃教学",
