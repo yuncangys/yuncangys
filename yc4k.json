@@ -17,7 +17,7 @@
             "searchable": 0,
             "api": "csp_Config"
         },
-        {"key": "hipy_js_腾云驾雾","name": "4KHDR-💯┃VIP","type": 3,"api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"changeable": 0,"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yuncangys/yuncangys/refs/heads/main/txjx.js"},
+        {"key": "hipy_js_腾云驾雾","name": "4KHDR-💯┃VIP","type": 3,"api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"changeable": 0,"ext": "./txjx.js"},
         {
       "key": "qqys",
       "name": "4K腾云-💯┃VIP",
