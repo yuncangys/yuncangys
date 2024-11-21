@@ -17,8 +17,6 @@
             "searchable": 0,
             "api": "csp_Config"
         },
-        {"key": "csp_xiaomi","name": "4K-UC┃网盘扫码","type": 3,"api": "csp_Duopan","changeable": 0,"ext": "http://www.mucpan.cc","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1730855920785/1106.jar;md5;3574bbe3de12181b1ef79c9938246aa6"},
-		{"key":"csp_星辰","name":"2K自营-💯｜VIP","type":3,"api":"csp_XBPQ","ext": {"主页url":"http://www.xingchenwu.com/","简介":"【云仓】提醒您请勿相信影片中的广告，以免上当受骗！+<span class=\"detail-sketch\">&&</span>","导演":"导演：&&</p>","主演":"主演：&&</p>","影片状态":"状态：&&</p>","影片类型":"类型：&&</p>","数组":"stui-vodlist__thumb lazyload\"&&</a>","标题":"title=\"&&\"","副标题":"云仓+text-right\">&&</span>","图片":"data-original=\"&&\"","链接":"href=\"&&\"","搜索url":"http://www.xingchenwu.com/search.php;post;searchword={wd}","搜索数组":"stui-vodlist__thumb lazyload\"&&</a>","搜索标题":"title=\"&&\"","搜索副标题":"text-right\">&&</span>","搜索图片":"data-original=\"&&\"","搜索链接":"href=\"&&\"","线路数组":"<h3&&/h3>","线路标题":"2K+>&&<","播放链接":"href='&&'","分类url":"http://www.xingchenwu.com/{cateId}/index{catePg}.html[http://www.xingchenwu.com/{cateId}/index.html];;ak","分类":"自营电影$dianying#自营电视剧$dianshiju#自营综艺$zongyi#自营动漫$dongman"}},
         {"key": "hipy_js_腾云驾雾","name": "4KHDR-💯┃VIP","type": 3,"api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"changeable": 0,"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yuncangys/yuncangys/refs/heads/main/txjx.js"},
         {
       "key": "qqys",
@@ -31,7 +29,6 @@
     {"key": "瓜子｜影视","name": "4K瓜子-💯┃vip","type": 3,"api": "csp_Gz360","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key": "酷看","name": "2K酷看-💯┃2K","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.tvkuys.xyz/api.php/app/"},
 		{"key": "drpy_js_黑木耳资源","name": "2K木耳-💯｜2K","type": 3,"api": "https://gh-proxy.com/raw.githubusercontent.com/guot55/yg/main/lib/drpy2.min.js","ext": "https://gh-proxy.com/raw.githubusercontent.com/guot55/yg/main/lib/mr.js"},
-        {"key": "优优影视","name": "2K优优-💯｜2K","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"影片地区": "云仓","影片年代": "<div class=\"module-info-tag\">&&</div>","影片状态": "备注：&&</div>","影片类型": "module-info-tag\">&&立即播放","线路数组": "data-dropdown-value=&&</div>","线路标题": "<span>&&</small>[替换:</span><small>>>共]+集","分类url": "https://nuu.su/x/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html","分类": "电影$1#剧集$2#伦理片$117#动漫$4#综艺$3#爽剧$5#记录$6"}}, 
         {
             "key": "夸克多多弹幕",
             "name": "4K多多｜UC扫码",
@@ -63,6 +60,8 @@
                 "danmu": true
             }
         },
+        {"key": "csp_xiaomi","name": "4K-UC┃网盘扫码","type": 3,"api": "csp_Duopan","changeable": 0,"ext": "http://www.mucpan.cc","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1730855920785/1106.jar;md5;3574bbe3de12181b1ef79c9938246aa6"},
+		{"key":"csp_星辰","name":"2K自营-💯｜VIP","type":3,"api":"csp_XBPQ","ext": {"主页url":"http://www.xingchenwu.com/","简介":"【云仓】提醒您请勿相信影片中的广告，以免上当受骗！+<span class=\"detail-sketch\">&&</span>","导演":"导演：&&</p>","主演":"主演：&&</p>","影片状态":"状态：&&</p>","影片类型":"类型：&&</p>","数组":"stui-vodlist__thumb lazyload\"&&</a>","标题":"title=\"&&\"","副标题":"云仓+text-right\">&&</span>","图片":"data-original=\"&&\"","链接":"href=\"&&\"","搜索url":"http://www.xingchenwu.com/search.php;post;searchword={wd}","搜索数组":"stui-vodlist__thumb lazyload\"&&</a>","搜索标题":"title=\"&&\"","搜索副标题":"text-right\">&&</span>","搜索图片":"data-original=\"&&\"","搜索链接":"href=\"&&\"","线路数组":"<h3&&/h3>","线路标题":"2K+>&&<","播放链接":"href='&&'","分类url":"http://www.xingchenwu.com/{cateId}/index{catePg}.html[http://www.xingchenwu.com/{cateId}/index.html];;ak","分类":"自营电影$dianying#自营电视剧$dianshiju#自营综艺$zongyi#自营动漫$dongman"}},
         {
             "key": "金牌影视",
             "name": "2K金牌-💯｜2K",
@@ -100,6 +99,7 @@
             "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/小熊弹幕.js"
         },
+        {"key": "优优影视","name": "2K优优-💯｜2K","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"影片地区": "云仓","影片年代": "<div class=\"module-info-tag\">&&</div>","影片状态": "备注：&&</div>","影片类型": "module-info-tag\">&&立即播放","线路数组": "data-dropdown-value=&&</div>","线路标题": "<span>&&</small>[替换:</span><small>>>共]+集","分类url": "https://nuu.su/x/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html","分类": "电影$1#剧集$2#伦理片$117#动漫$4#综艺$3#爽剧$5#记录$6"}},
         {"key": "天天影视","name": "2K天天-💯┃2K","type": 3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 1,"jar":"https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;34c7c3e4a322bcb666145dd87fa68e9f"},
     {
       "key": "csp_qx",
@@ -384,8 +384,16 @@
             "gridview": "0-0-4.1"
         },
         {
+            "key": "push_agent1",
+            "name": "迅雷App搜索:润哥资源",
+            "type": 3,
+            "api": "csp_Push",
+            "playerType": "1",
+            "searchable": 0
+        },
+        {
             "key": "push_agent",
-            "name": "切勿相信广告",
+            "name": "更新最新版",
             "type": 3,
             "api": "csp_Push",
             "playerType": "1",
@@ -399,7 +407,7 @@
             "url": "Demo"
         },
         {
-            "name": "4KHDR",
+            "name": "云视仓",
             "type": "1",
             "url": "http://qn6z7b.yun.42jx.com/jx/jx.php?url=",
             "ext": {
