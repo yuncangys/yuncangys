@@ -4,7 +4,7 @@
     "sites": [
         {
             "key": "豆瓣",
-            "name": "聚🈴搜索【查看使用说明➧请点开设置】",
+            "name": "聚🈴搜索【最新数据➧点开设置➧重置App】",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
@@ -17,10 +17,27 @@
             "searchable": 0,
             "api": "csp_Config"
         },
-        {"key": "hipy_js_腾云驾雾[官]","name": "4K腾腾-💯┃VIP","type": 3,"api": "https://3450.kstore.vip/js/drpy_libs/drpy2.js","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2,"order_num": 0,"changeable": 0,"ext": "https://gitee.com/smallmi1007/mimi/raw/master/tm.js"},
-    {"key": "qqys","name": "4K腾云-💯┃VIP","type": 3,"api": "https://3450.kstore.vip/js/drpy_libs/drpy2.js","ext": "./tx4k.js"},
-        {"key": "芒果视频","name": "4K芒芒-💯┃VIP","type": 3,"api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"changeable": 0,"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/芒果视频.js"},
-        {"key": "guoguo","name": "4K果果-💯┃VIP","type": 3,"api": "https://3450.kstore.vip/js/drpy_libs/drpy2.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"changeable": 0,"ext": "https://gitee.com/smallmi1007/mimi/raw/master/guoguo.js"},
+        {
+      "key": "hipy_js_腾云驾雾[官]",
+      "name": "4KQQ-💯┃VIP",
+      "type": 3,
+      "api": "https://3450.kstore.vip/js/drpy_libs/drpy2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "order_num": 0,
+      "changeable": 0,
+      "ext": "https://gitee.com/smallmi1007/mimi/raw/master/tm.js"
+    },
+        {
+      "key": "qqys",
+      "name": "4K腾云-💯┃VIP",
+      "type": 3,
+      "api": "https://3450.kstore.vip/js/drpy_libs/drpy2.js",
+      "ext": "./tx4k.js"
+    },
+        {"key": "guoguo","name": "4K茫茫-💯┃VIP","type": 3,"api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"changeable": 0,"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/芒果视频.js"},
     {"key": "瓜子｜影视","name": "4K瓜子-💯┃vip","type": 3,"api": "csp_Gz360","searchable": 1,"quickSearch": 1,"filterable": 1},
     {
             "key": "金牌影视",
