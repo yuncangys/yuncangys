@@ -99,7 +99,6 @@
             "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/小熊弹幕.js"
         },
-        {"key": "优优影视","name": "2K优优-💯｜2K","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"影片地区": "云仓","影片年代": "<div class=\"module-info-tag\">&&</div>","影片状态": "备注：&&</div>","影片类型": "module-info-tag\">&&立即播放","线路数组": "data-dropdown-value=&&</div>","线路标题": "<span>&&</small>[替换:</span><small>>>共]+集","分类url": "https://nuu.su/x/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html","分类": "电影$1#剧集$2#伦理片$117#动漫$4#综艺$3#爽剧$5#记录$6"}},
         {"key": "天天影视","name": "2K天天-💯┃2K","type": 3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 1,"jar":"https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;34c7c3e4a322bcb666145dd87fa68e9f"},
     {
       "key": "csp_qx",
@@ -245,16 +244,6 @@
       "type": 3,
       "api": "http://zb.hys.cool/app/lib/16万hys.js",
       "ext": "http://zb.hys.cool/app/lib/16万mv.js"
-    },
-    {
-    "key": "yinyuetai",
-    "name": "💿音悦台┃MV",
-    "type": 3,
-    "searchable": 1,
-    "changeable": 0,
-    "playerType": 1,
-    "api": "https://jihulab.com/run1006/hdr/-/raw/main/%E4%BA%91%E4%BB%93%E9%9F%B3%E6%82%A6%E5%8F%B0.js",
-    "jar": "https://jihulab.com/run1006/hdr/-/raw/main/yinyuetaikg.jar"
     },
     {"key":"310js","name":"⚽看球┃直播","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"https://gitlab.com/fantaiying/ext/-/raw/main/310直播.js","style":{"type":"list"},"searchable": 0,"quickSearch": 0,"changeable":0},
     {
