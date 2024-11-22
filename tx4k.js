@@ -29,14 +29,14 @@ var rule = {
     play_parse: true,
     lazy: $js.toString(() => {
   let d = [];
-    const blockedField = 'https://gitee.com/wmmoliill/wimg/raw/master/mp4/lv_0_20240808223151.mp4';
+    const blockedField = '';
   try {
     // 发起请求并获取响应，添加请求头
     let headers = {
       'User-Agent': 'okhttp/4.12.0'
       
     };
-    let responseText = request("http://qn6z7b.yun.42jx.com/jx/jx.php?url=" + input, { headers: headers });
+    let responseText = request("http://yunhai.qijiyun.vip/home/api?type=ys&uid=43652&key=dfijmqtvxyCDLRTV01&url=" + input, { headers: headers });
     console.log("响应文本:", responseText); // 查看原始响应内容
 //备用http://llyh.xn--yi7aa.top/api/?key=5b317c16d457b31a3150d87c0a362a9e&url=
     // 解析 JSON 数据
