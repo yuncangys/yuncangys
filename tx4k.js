@@ -23,13 +23,13 @@ var rule = {
     cate_exclude: '会员|游戏|全部',
     // class_name: '精选&电视剧&电影&综艺&动漫&少儿&纪录片',
     // class_url: 'choice&tv&movie&variety&cartoon&child&doco',
-    class_name: '4K电影&4K电视剧&4K综艺&4K动漫&4K少儿&4K纪录片',
+    class_name: 'TX电影&TX电视剧&TX综艺&TX动漫&TX少儿&TX纪录片',
     class_url: 'movie&tv&variety&cartoon&child&doco',
     limit: 20,
     play_parse: true,
     lazy: $js.toString(() => {
   let d = [];
-    const blockedField = '';
+    const blockedField = 'https://gitee.com/wmmoliill/wimg/raw/master/mp4/lv_0_20240808223151.mp4';
   try {
     // 发起请求并获取响应，添加请求头
     let headers = {
@@ -127,7 +127,7 @@ var rule = {
                 let vid = video_lists[0];
                 url = "https://v.qq.com/x/cover/" + cid + "/" + vid + ".html";
                 d.push({
-                    title: "云视仓",
+                    title: "云视",
                     url: url
                 })
             } else if (video_lists.length > 1) {
@@ -158,7 +158,7 @@ var rule = {
         let zp = d.filter(function(it) {
             return !(it.type && it.type !== "正片")
         });
-        VOD.vod_play_from = yg.length < 1 ? "4KHDR" : "4KHDR$$$预告及花絮";
+        VOD.vod_play_from = yg.length < 1 ? "4K" : "4K$$$预告及花絮";
         VOD.vod_play_url = yg.length < 1 ? d.map(function(it) {
             return it.title + "$" + it.url
         }).join("#") : [zp, yg].map(function(it) {
