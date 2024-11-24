@@ -172,7 +172,7 @@ var rule = {
         } else {
             print(input + "暂无片源")
         }
-        VOD.vod_play_from = "云视mg";
+        VOD.vod_play_from = "云视";
         VOD.vod_play_url = d.map(function (it) {
             return it.title + "$" + it.url
         }).join("#");
