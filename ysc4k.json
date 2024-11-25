@@ -2,21 +2,6 @@
     "spider": "https://gitee.com/PizazzXS/four-d/raw/master/spider.txt;md5;be9be97d2b21f8fe4ba66ab7ed71b4d5",
     "wallpaper": "https://api.likepoems.com/img/bing",
     "sites": [
-        {
-            "key": "豆瓣",
-            "name": "聚🈴搜索【最新数据➧请点开设置➧重置App】",
-            "type": 3,
-            "api": "csp_Douban",
-            "searchable": 0
-        },
-        {
-            "key": "配置",
-            "name": "⚙️网盘┃配置",
-            "type": 3,
-            "changeable": 0,
-            "searchable": 0,
-            "api": "csp_Config"
-        },
         {"key": "芒果视频","name": "4K芒芒-💯┃VIP","type": 3,"api": "https://3450.kstore.vip/js/drpy_libs/drpy2.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"changeable": 0,"ext": "./mgjx.js"},
         {"key": "hipy_js_腾云驾雾[官]","name": "4K腾腾-💯┃VIP","type": 3,"api": "https://3450.kstore.vip/js/drpy_libs/drpy2.js","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2,"order_num": 0,"changeable": 0,"ext": "https://gitee.com/smallmi1007/mimi/raw/master/tm.js"},
         {"key": "qqys","name": "4K腾云-💯┃VIP","type": 3,"api": "https://3450.kstore.vip/js/drpy_libs/drpy2.js","ext": "./tx4k.js"},
