@@ -1,7 +1,22 @@
 {
-    "spider": "./spider.jar;md5;6044e3ceb295d82028c72e4524bae5f5",
+    "spider": "https://gitee.com/PizazzXS/four-d/raw/master/spider.txt;md5;be9be97d2b21f8fe4ba66ab7ed71b4d5",
     "wallpaper": "https://api.likepoems.com/img/bing",
     "sites": [
+        {
+            "key": "豆瓣",
+            "name": "聚🈴搜索【最新数据➧请点开设置➧重置App】",
+            "type": 3,
+            "api": "csp_Douban",
+            "searchable": 0
+        },
+        {
+            "key": "配置",
+            "name": "⚙️网盘┃配置",
+            "type": 3,
+            "changeable": 0,
+            "searchable": 0,
+            "api": "csp_Config"
+        },
         {"key": "芒果视频","name": "4K芒芒-💯┃VIP","type": 3,"api": "https://3450.kstore.vip/js/drpy_libs/drpy2.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"changeable": 0,"ext": "./mgjx.js"},
         {"key": "hipy_js_腾云驾雾[官]","name": "4K腾腾-💯┃VIP","type": 3,"api": "https://3450.kstore.vip/js/drpy_libs/drpy2.js","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2,"order_num": 0,"changeable": 0,"ext": "https://gitee.com/smallmi1007/mimi/raw/master/tm.js"},
         {"key": "qqys","name": "4K腾云-💯┃VIP","type": 3,"api": "https://3450.kstore.vip/js/drpy_libs/drpy2.js","ext": "./tx4k.js"},
@@ -29,6 +44,7 @@
 		{"key": "drpy_js_黑木耳资源","name": "2K木耳-💯｜2K","type": 3,"api": "https://gh-proxy.com/raw.githubusercontent.com/guot55/yg/main/lib/drpy2.min.js","ext": "https://gh-proxy.com/raw.githubusercontent.com/guot55/yg/main/lib/mr.js"},
 		{"key":"bro","name":"2K铁剧-💯｜2K","type":3,"api":"csp_WebBr","searchable":1,"quickSearch":0,"filterable":0,"ext":"KhY021WelCEl+6MsvwnzaPusskysEhxc/znZ4AaiReBTtZTeDEVZJbQKKez3K+OxlrjAIMdUpAUxP8fGystYn0Hss098UFVR69Qm2ARgmeZN86q8Ww=="},{"key":"AppBro","name":"2K兄弟-💯｜2K","type":3,"api":"csp_AppGetApp","searchable":1,"quickSearch":0,"filterable":0,"ext":"KhYl01Kekjo9vLs09V+rOtv/6QaOFwdQp2ne4h22GLkT99eCXh9SJ/lGZNM8zgk1OnFWx0zBQ9Y/9mAjQB67LaEp7Yj7w9SYBEjFbdPjKy3EHp7uBIHXVI7/dZ4r/dJapz6ihlWwqY2KlGuarL/+9suxO4ZJFOg1OxN+dTrTbi2Muff1CmBkNfrY+sENTEbHAsgpQRtycD7pjvPePZ1AgNT8ZuBCcf4lIM858OSMK4u76tpjIfqzVA=="},{"key":"nk","name":"2K耐看-💯｜2K","type":3,"api":"csp_WebNK","searchable":0,"changeable":0,"ext":"KhY021WelCEl+6MsvwnzaPussky1Dh0d+WXb80vqSfdVqJTIDGrV0xPZiB/0I8O9mrMKS+cdzxqKP83dFJJyyyb8D0J0ZVtM/ds4xb/4dA=="},{"key":"rezhe","name":"2K忍者-💯｜2K","type":3,"api":"csp_AppRZ","searchable":0,"filterable":1,"changeable":1,"ext":"KhY021WelCEl+6MsvwnzaLK5sgGhHBhBszPP7EvqSfdVqJTIDGrV0xPZiB/0I8O9mrMKS+cdzxqKP83dFJJyyyb8D0J0ZVtM/ds4xb/4dA=="},
 		{"key": "追剧影视","name": "2K追剧-💯｜2K","type": 3,"api": "csp_AppZJ","jar": "https://www.xplaza.cn/api/repo/ugB0S2uQhGaqSxXd/yuyu/bWFpbg==/getFile/MTEwNS5qYXI=?isDownload=true;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://z.kzjtv.com/"},
+		{"key": "哔哩视频","name": "哔哩｜视频","type": 3,"api": "https://gitee.com/PizazzXS/four-d/raw/master/js/drpy2.min.js","ext": "https://gitee.com/PizazzXS/four-d/raw/master/movie/js/BLSP.js"},
         {
             "key": "夸克多多弹幕",
             "name": "4K多多｜UC扫码",
@@ -81,7 +97,7 @@
             "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/小熊弹幕.js"
         },
-        {"key": "天天影视","name": "2K天天-💯┃2K","type": 3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 1,"jar":"https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;34c7c3e4a322bcb666145dd87fa68e9f"},
+        {"key": "天天影视","name": "2K天天-💯┃2K","type": 3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 1,"jar":"https://gitee.com/PizazzXS/four-d/raw/master/spider.txt;md5;be9be97d2b21f8fe4ba66ab7ed71b4d5"},
     {
       "key": "csp_qx",
       "name": "2K云仓-💯┃2K",
@@ -123,7 +139,7 @@
      "ext":"https://jihulab.com/run1006/hdr/-/raw/main/lib/6Vip.json"
     },
     {"key": "视频库","name": "2K视库-💯｜vip","type": 3,"api": "csp_WebVidHub","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://vidhub1.cc"},
-    {"key": "低端影视","name": "2K低端-💯┃2K","type": 3,"api": "csp_Ddys","searchable": 1,"quickSearch": 1,"filterable":1,"jar": "./spider.jar;md5;34c7c3e4a322bcb666145dd87fa68e9f"},
+    {"key": "低端影视","name": "2K低端-💯┃2K","type": 3,"api": "csp_Ddys","searchable": 1,"quickSearch": 1,"filterable":1,"jar": "https://gitee.com/PizazzXS/four-d/raw/master/spider.txt;md5;be9be97d2b21f8fe4ba66ab7ed71b4d5"},
     {"key":"热播","name":"2K热播-💯┃2k","type":3,"api":"csp_TTian","playerType":1,"ext":"http://v.rbotv.cn","jar": "https://jihulab.com/run1006/hdr/-/raw/main/lib/cesi.jar"},
 {"key": "csp_SeedHub","name": "直连-💯┃磁力","type": 3,"api": "csp_SeedHub","searchable": 1,"quickSearch": 1,"playerType": 1,"filterable": 1},
     {
@@ -202,7 +218,7 @@
       "quickSearch": 0,
       "changeable": 0
     },
-    {"key":"星芽短剧","name":"星芽短剧┃秒播","type":3,"api":"csp_AppXY","searchable":1,"quickSearch":0,"filterable":0,"jar":"https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;34c7c3e4a322bcb666145dd87fa68e9f"},
+    {"key":"星芽短剧","name":"星芽短剧┃秒播","type":3,"api":"csp_AppXY","searchable":1,"quickSearch":0,"filterable":0,"jar":"https://gitee.com/PizazzXS/four-d/raw/master/spider.txt;md5;be9be97d2b21f8fe4ba66ab7ed71b4d5"},
         {
             "key": "天堂短剧",
             "name": "天堂｜短剧",
@@ -329,6 +345,39 @@
             "name": "4K",
             "type": "1",
             "url": "https://api.huohua.live/api/?key=m9rZaTUGYzJtX4MVeL&url=",
+            "ext": {
+                "flag": [
+                    "youku",
+                    "qq",
+                    "qiyi",
+                    "bilibili",
+                    "mgtv",
+                    "pptv",
+                    "xigua",
+                    "NBY",
+                    "ETH-",
+                    "BBA",
+                    "TX",
+                    "MXTV",
+                    "mytv",
+                    "nmys",
+                    "yhdm",
+                    "BNNB",
+                    "letu",
+                    "DJWB",
+                    "DJWX",
+                    "DJWT",
+                    "duanju"
+                ],
+                "header": {
+                    "User-Agent": "Dalvik/2.1.0"
+                }
+            }
+        },
+        {
+            "name": "云视",
+            "type": "1",
+            "url": "https://jk.123zy.cool/jx/jx.php?url=",
             "ext": {
                 "flag": [
                     "youku",
