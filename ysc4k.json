@@ -5,6 +5,7 @@
         {"key": "芒果视频","name": "4K芒芒-💯┃VIP","type": 3,"api": "https://3450.kstore.vip/js/drpy_libs/drpy2.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"changeable": 0,"ext": "./mgjx.js"},
         {"key": "hipy_js_腾云驾雾[官]","name": "4K腾腾-💯┃VIP","type": 3,"api": "https://3450.kstore.vip/js/drpy_libs/drpy2.js","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2,"order_num": 0,"changeable": 0,"ext": "https://gitee.com/smallmi1007/mimi/raw/master/tm.js"},
         {"key": "qqys","name": "4K腾云-💯┃VIP","type": 3,"api": "https://3450.kstore.vip/js/drpy_libs/drpy2.js","ext": "./tx4k.js"},
+        {"key": "探探","name": "4K影探-💯┃VIP","type": 3,"api": "http://47.99.102.252/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./yintan.js"},
     {"key": "瓜子｜影视","name": "4K瓜子-💯┃vip","type": 3,"api": "csp_Gz360","searchable": 1,"quickSearch": 1,"filterable": 1},
     {
             "key": "金牌影视",
@@ -26,6 +27,8 @@
         },
     {"key": "酷看","name": "2K酷看-💯┃2K","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.tvkuys.xyz/api.php/app/"},
 		{"key": "drpy_js_黑木耳资源","name": "2K木耳-💯｜2K","type": 3,"api": "https://gh-proxy.com/raw.githubusercontent.com/guot55/yg/main/lib/drpy2.min.js","ext": "https://gh-proxy.com/raw.githubusercontent.com/guot55/yg/main/lib/mr.js"},
+		{"key":"bro","name":"2K铁剧-💯｜2K","type":3,"api":"csp_WebBr","searchable":1,"quickSearch":0,"filterable":0,"ext":"KhY021WelCEl+6MsvwnzaPusskysEhxc/znZ4AaiReBTtZTeDEVZJbQKKez3K+OxlrjAIMdUpAUxP8fGystYn0Hss098UFVR69Qm2ARgmeZN86q8Ww=="},{"key":"AppBro","name":"2K兄弟-💯｜2K","type":3,"api":"csp_AppGetApp","searchable":1,"quickSearch":0,"filterable":0,"ext":"KhYl01Kekjo9vLs09V+rOtv/6QaOFwdQp2ne4h22GLkT99eCXh9SJ/lGZNM8zgk1OnFWx0zBQ9Y/9mAjQB67LaEp7Yj7w9SYBEjFbdPjKy3EHp7uBIHXVI7/dZ4r/dJapz6ihlWwqY2KlGuarL/+9suxO4ZJFOg1OxN+dTrTbi2Muff1CmBkNfrY+sENTEbHAsgpQRtycD7pjvPePZ1AgNT8ZuBCcf4lIM858OSMK4u76tpjIfqzVA=="},{"key":"nk","name":"2K耐看-💯｜2K","type":3,"api":"csp_WebNK","searchable":0,"changeable":0,"ext":"KhY021WelCEl+6MsvwnzaPussky1Dh0d+WXb80vqSfdVqJTIDGrV0xPZiB/0I8O9mrMKS+cdzxqKP83dFJJyyyb8D0J0ZVtM/ds4xb/4dA=="},{"key":"rezhe","name":"2K忍者-💯｜2K","type":3,"api":"csp_AppRZ","searchable":0,"filterable":1,"changeable":1,"ext":"KhY021WelCEl+6MsvwnzaLK5sgGhHBhBszPP7EvqSfdVqJTIDGrV0xPZiB/0I8O9mrMKS+cdzxqKP83dFJJyyyb8D0J0ZVtM/ds4xb/4dA=="},
+		{"key": "追剧影视","name": "2K追剧-💯｜2K","type": 3,"api": "csp_AppZJ","jar": "https://www.xplaza.cn/api/repo/ugB0S2uQhGaqSxXd/yuyu/bWFpbg==/getFile/MTEwNS5qYXI=?isDownload=true;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://z.kzjtv.com/"},
         {
             "key": "夸克多多弹幕",
             "name": "4K多多｜UC扫码",
