@@ -56,7 +56,7 @@ lazy: $js.toString(() => {
             }
         };
 
-        parseLink("http://qn6z7b.yun.42jx.com/jx/jx.php?url=" + input);
+        parseLink("https://jk.123zy.cool/jx/jx.php?url=" + input);
         if (!longestLink) {
             parseLink("http://qn6z7b.yun.42jx.com/jx/jx.php?url=" + input);
         }
