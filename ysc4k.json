@@ -3,7 +3,7 @@
     "wallpaper": "https://api.likepoems.com/img/bing",
     "sites": [
         {"key": "芒果视频","name": "4K芒芒-💯┃VIP","type": 3,"api": "https://3450.kstore.vip/js/drpy_libs/drpy2.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"changeable": 0,"ext": "./mgjx.js"},
-        {"key": "hipy_js_腾云驾雾[官]","name": "4K腾腾-💯┃VIP","type": 3,"api": "https://3450.kstore.vip/js/drpy_libs/drpy2.js","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2,"order_num": 0,"changeable": 0,"ext": "https://gitee.com/smallmi1007/mimi/raw/master/tm.js"},
+        //{"key": "hipy_js_腾云驾雾[官]","name": "4K腾腾-💯┃VIP","type": 3,"api": "https://3450.kstore.vip/js/drpy_libs/drpy2.js","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2,"order_num": 0,"changeable": 0,"ext": "https://gitee.com/smallmi1007/mimi/raw/master/tm.js"},
         {"key": "qqys","name": "4K腾云-💯┃VIP","type": 3,"api": "https://3450.kstore.vip/js/drpy_libs/drpy2.js","ext": "./tx4k.js"},
     {"key": "瓜子｜影视","name": "4K瓜子-💯┃vip","type": 3,"api": "csp_Gz360","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key": "熊猫TV_js","name": "2K‍熊猫-💯｜2K","type": 3,"api": "http://kxrj.site:55/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext": "http://kxrj.site:55/lib/js/熊猫TV.js"},
@@ -234,6 +234,13 @@
       "jar": "https://d.kstore.space/download/6509/lib/fan28.jar"
     },
     {
+      "key": "路漫漫",
+      "name": "路漫漫｜动漫",
+      "type": 3,
+      "api": "https://gitee.com/PizazzXS/four-d/raw/master/js/drpy2.min.js",
+      "ext": "https://gitee.com/PizazzXS/four-d/raw/master/anime/js/LMM.js"
+    },
+    {
       "key": "Aid",
       "name": "🚑急救┃教学",
       "type": 3,
@@ -328,7 +335,7 @@
             "url": "Demo"
         },
         {
-            "name": "4K",
+            "name": "云视",
             "type": "1",
             "url": "https://api.huohua.live/api/?key=m9rZaTUGYzJtX4MVeL&url=",
             "ext": {
@@ -361,9 +368,42 @@
             }
         },
         {
-            "name": "云视",
+            "name": "4K",
             "type": "1",
             "url": "https://jk.123zy.cool/jx/jx.php?url=",
+            "ext": {
+                "flag": [
+                    "youku",
+                    "qq",
+                    "qiyi",
+                    "bilibili",
+                    "mgtv",
+                    "pptv",
+                    "xigua",
+                    "NBY",
+                    "ETH-",
+                    "BBA",
+                    "TX",
+                    "MXTV",
+                    "mytv",
+                    "nmys",
+                    "yhdm",
+                    "BNNB",
+                    "letu",
+                    "DJWB",
+                    "DJWX",
+                    "DJWT",
+                    "duanju"
+                ],
+                "header": {
+                    "User-Agent": "Dalvik/2.1.0"
+                }
+            }
+        },
+        {
+            "name": "云仓",
+            "type": "1",
+            "url": "http://qn6z7b.yun.42jx.com/jx/jx.php?url=",
             "ext": {
                 "flag": [
                     "youku",
