@@ -126,18 +126,8 @@
       }
     },
     {"key": "小苹果","name": "2K苹果-💯┃2K","type": 3,"api": "csp_Xpg","searchable": 1,"playerType": 1,"quickSearch": 1,"filterable": 1},
-{"key":"在线之家","name":"2K在线-💯┃2K","type":3,"api":"http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js","ext":"https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/在线之家.js"},
-    {
-     "key": "csp_XBPQ_6V",
-     "name": "2K专享-💯┃vip",
-     "type": 3,
-     "api": "csp_XBPQ",
-     "searchable": 1,
-     "quickSearch": 1,
-     "filterable": 1,
-     "jar":"https://jihulab.com/run1006/hdr/-/raw/main/jar/vip.jar",
-     "ext":"https://jihulab.com/run1006/hdr/-/raw/main/lib/6Vip.json"
-    },
+//{"key":"在线之家","name":"2K在线-💯┃2K","type":3,"api":"http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js","ext":"https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/在线之家.js"},
+    //{"key": "csp_XBPQ_6V","name": "2K专享-💯┃vip","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://jihulab.com/run1006/hdr/-/raw/main/jar/vip.jar","ext":"https://jihulab.com/run1006/hdr/-/raw/main/lib/6Vip.json"},
     {"key": "低端影视","name": "2K低端-💯┃2K","type": 3,"api": "csp_Ddys","searchable": 1,"quickSearch": 1,"filterable":1,"jar": "https://gitee.com/PizazzXS/four-d/raw/master/spider.txt;md5;be9be97d2b21f8fe4ba66ab7ed71b4d5"},
     {"key":"热播","name":"2K热播-💯┃2k","type":3,"api":"csp_TTian","playerType":1,"ext":"http://v.rbotv.cn","jar": "https://jihulab.com/run1006/hdr/-/raw/main/lib/cesi.jar"},
 {"key": "csp_SeedHub","name": "2K直连-💯┃磁力","type": 3,"api": "csp_SeedHub","searchable": 1,"quickSearch": 1,"playerType": 1,"filterable": 1},
