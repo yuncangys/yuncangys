@@ -1193,13 +1193,9 @@ CETV-4,http://[2409:8087:74d9:21::6]:80/270000001128/9900000072/index.m3u8
 港·奥·國际⭐,#genre#
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://cdn5.1678520.xyz/live/live1.1.php?id=fhzx
-凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
-无线翡翠,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
-无线翡翠,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
-TVBS歡樂台,http://37.27.111.214:8080/live/24/hls.m3u8
 香港🇭🇰卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港🇭🇰卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 澳门莲花,http://php.jdshipin.com:8880/amlh.php
@@ -1214,29 +1210,6 @@ TVBS歡樂台,http://37.27.111.214:8080/live/24/hls.m3u8
 星空卫视,http://vl15191373.imwork.net:8880/udp/239.93.1.10:2193
 香港電台(34),https://livedoc.cgtn.com/1000d/prog_index.m3u8
 香港電台(34),https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-MYTV Super 18台,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
-PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
-ROCK Action,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
-TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
-TVN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
-娛樂新聞台(HK),http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
-無線新聞台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
-明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
-凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
-靖天電影台,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
-龍華經典台,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
-中天新聞台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
-中視,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
-華視,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
-中天亞洲台,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
-三立綜合台,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
-千禧經典台,http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
-翡翠综合台(北美),http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
-翡翠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
-明珠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
-黃金翡翠台,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
-龍華日韓台,http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
-龍華電影台,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
 香港佛陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
 香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
@@ -1259,6 +1232,8 @@ TVN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 環球電視,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 Fox新聞,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+无线翡翠,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+TVBS歡樂台,http://37.27.111.214:8080/live/24/hls.m3u8
 GOODTV卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 GOODTV好消息,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 新加坡中文,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
