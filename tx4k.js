@@ -36,7 +36,7 @@ var rule = {
       'User-Agent': 'okhttp/4.12.0'
       
     };
-    let responseText = request("https://jk.123zy.cool/jx/jx.php?url=" + input, { headers: headers });
+    let responseText = request("https://www.mpanso.com/mg/xm.php?url=" + input, { headers: headers });
     console.log("响应文本:", responseText); // 查看原始响应内容
 //备用http://llyh.xn--yi7aa.top/api/?key=5b317c16d457b31a3150d87c0a362a9e&url=
     // 解析 JSON 数据
